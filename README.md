@@ -1,6 +1,8 @@
 # Wisconsin-Bureau-of-Structures-Computer-Navigator
 The Bureau of Structures (BOS) in-house tool for monitoring, accessing, and distributing computer resources.
 
+Functionality Demo: https://www.youtube.com/watch?v=uEquhvlQarg&ab_channel=LukeBreyer
+
 Project Description:
 
 The Wisconsin Department of Transportation’s (WisDOT) Bureau of Structures maintains a large inventory of computer resources for use by employees in the service of various department projects. As each computer requires both regular maintenance and upkeep, a cost is incurred upon the Bureau in accordance to the inventory. For this purpose, it is necessary that the Bureau of Structures maintain accurate records and data for all active devices.
